@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225.333" height="49" viewBox="0 0 225.333 49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5a1b1b;
+      }
+
+      .cls-2 {
+        fill: #070707;
+      }
+
+      .cls-3 {
+        fill: #33085d;
+      }
+
+      .cls-4 {
+        fill: rgba(23,11,28,0.97);
+        font-size: 26.248px;
+        font-family: BerlinSansFB-Reg, Berlin Sans FB;
+        baseline-shift: 14.99849938095566;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-295.667 -712)">
+    <g id="Group_3" data-name="Group 3" transform="translate(-28.968 154.56) rotate(-3)">
+      <path id="Path_6" data-name="Path 6" class="cls-1" d="M11.15,2.6C12.3-.937,16.122-.849,17.4,2.746L29.443,36.68c1.076,3.033-.524,6.4-3.013,6.346L3.505,42.5C1.016,42.443-.7,39,.27,36.01Z" transform="translate(337.716 590.819) rotate(94)"/>
+      <path id="Path_5" data-name="Path 5" class="cls-2" d="M16.878,1.982C19.092-.6,24.183-.67,26.3,1.847L41.57,20.033c2.227,2.652-.494,6.154-4.831,6.216L5.469,26.7c-4.336.062-6.922-3.364-4.589-6.081Z" transform="translate(297.821 594.887) rotate(3)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-3" d="M13.009,1.754c1.48-2.4,4.1-2.331,5.658.139L31.386,22.009c2.317,3.665.668,9.444-2.671,9.362L3.939,30.764c-3.34-.082-5.183-5.946-2.987-9.5Z" transform="matrix(0.052, -0.999, 0.999, 0.052, 313.789, 621.024)"/>
+      <path id="Path_2" data-name="Path 2" class="cls-2" d="M16.1,2.4a4.8,4.8,0,0,1,8.325.008L39.888,28.765a4.928,4.928,0,0,1-4.156,7.459L4.863,36.195A4.944,4.944,0,0,1,.693,28.727Z" transform="matrix(-0.999, -0.052, 0.052, -0.999, 339.716, 622.541)"/>
+    </g>
+    <text id="Tourist_Pakage" data-name="Tourist Pakage" class="cls-4" transform="translate(354 712)"><tspan x="0" y="40">Tourist Pakage</tspan></text>
+  </g>
+</svg>
