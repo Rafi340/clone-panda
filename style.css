@@ -1,5 +1,5 @@
 .nav-item{
-    font-size: 25px;
+
     padding-top: 16px;
 }
 .orange-bg{
@@ -13,4 +13,51 @@
 }
 .container{
     margin-bottom: 100px;
+}
+.buy-now{
+    background-color:#BB2D3B ;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
+.c1, .c2, .c3 {
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.c1{
+    background-color: rgba(136, 96, 80, 0.959);
+    
+    
+}
+.c2{
+    background-color: orchid;
+    border-radius: 8px;
+}
+.c3{
+    background-color: rgba(13, 116, 201, 0.671);
+    
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+
+.carousel-indicators{
+    background-color: rgb(228, 177, 177);
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#booking{
+    height: 300px;
 }
